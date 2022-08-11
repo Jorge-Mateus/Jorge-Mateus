@@ -30,8 +30,8 @@ Olá, me chamo Jorge, hoje sou estudante da Universidade do Estado da Bahia, cur
 ### GITs
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-mateus&show_icons=true)](https://github.com/jorge-mateus/github-readme-stats)
 
-## Repositório Importante
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=CRUD)](https://github.com/Jorge-Mateus/CRUD)
+## Repositório
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=CRUD)](https://github.com/Jorge-Mateus/CRUD-COM-.NET-E-ANGULAR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=FILMEAPI)](https://github.com/Jorge-Mateus/FILMEAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=Xadrez)](https://github.com/Jorge-Mateus/Xadrez)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=ServidorWebSimples)](https://github.com/Jorge-Mateus/ServidorWebSimples)
