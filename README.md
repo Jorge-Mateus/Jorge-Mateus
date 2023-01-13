@@ -34,7 +34,7 @@ Olá, me chamo Jorge, hoje sou estudante da Universidade do Estado da Bahia, cur
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=CRUD)](https://github.com/Jorge-Mateus/CRUD-COM-.NET-E-ANGULAR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=FILMEAPI)](https://github.com/Jorge-Mateus/FILMEAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=Xadrez)](https://github.com/Jorge-Mateus/Xadrez)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=ToDoList)](https://github.com/Jorge-Mateus/ToDoList)
+[![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=ToDoList)](https://github.com/Jorge-Mateus/ToDoList)
 
 ## Top Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-mateus&langs_count=8)](https://github.com/jorge-mateus/github-readme-stats)
