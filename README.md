@@ -11,10 +11,10 @@ Olá, me chamo Jorge, hoje sou estudante da Universidade do Estado da Bahia, cur
 ![Microsoft-SQl](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## Detalhes
-- Trabalho atualmente no Senai Cimatec, sou estagiário
-- Estou me aprofudando em C#, .Net 
-- Estudando Angular 
-- Aprendendo RPA (Robotic Process Automation)
+- Trabalho atualmente na Automind
+- Programador JR
+- C#, .Net, SQL SERVER
+- Angular versão 13
 
 ## Minhas Redes Sociais 
 <div>
