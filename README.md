@@ -1,6 +1,5 @@
 ## Bem-Vindo
-Olá, me chamo Jorge, hoje sou estudante da Universidade do Estado da Bahia, curso Sistema de informação e estou no 6 periodo do curso. Atualemente faço estágio em desenvolvimento.
-
+Olá, sou Jorge. Atualmente, estou nos estágios finais do curso de Sistemas de Informação na Universidade do Estado da Bahia. Paralelamente aos estudos, desempenho o papel de desenvolvedor full stack.
 
 ## Skills 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
