@@ -31,7 +31,7 @@ Olá, sou Jorge. Atualmente, estou nos estágios finais do curso de Sistemas de 
 
 ## Repositório
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=CRUD)](https://github.com/Jorge-Mateus/CRUD-COM-.NET-E-ANGULAR)
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=FILMEAPI](https://github.com/Jorge-Mateus/DevFreela.API))
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=FILMEAPI)](https://github.com/Jorge-Mateus/DevFreela.API))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=Xadrez)](https://github.com/Jorge-Mateus/Xadrez)
 [![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=jorge-mateus&repo=ToDoList)](https://github.com/Jorge-Mateus/ToDoList)
 
